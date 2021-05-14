@@ -1,0 +1,76 @@
+.Header{
+    display:flex;
+    justify-content:space-between;
+    margin: 15px;
+    padding:50px;
+background-color:#5cdb95;
+border: 20px;
+
+}
+
+
+.Title {
+    margin: 24%;
+    color: #edf5e1;
+    font-size: 65px;
+    font-family:sans-serif;
+
+}
+body {
+    background-color: #5cdb95;
+    margin:0mm;
+
+}
+.Decorations{
+    
+    color: #379683;
+    font-size: 65px;
+    font-family:sans-serif;
+}
+.d1{
+    margin: 10%;
+    margin-top: -70%;
+}
+.d2{
+    transform: scale(-1, 1);
+
+    margin-top: 10%;
+    margin-left: 70%;
+
+}   
+.d3{
+    margin-top: 10%;
+    margin-left: 60%;
+
+}  
+.d4{
+    transform: rotate(50deg);
+
+    margin-top: 30%;
+    margin-left: 30%;
+
+}  
+.d5{
+    transform: rotate(20deg);
+
+    margin-top: -50%;
+    margin-left: 10%;
+
+}  
+.d6{
+        margin-top: -50%;
+
+    margin-left: 80%;
+
+}  
+.Info{
+    color: #05268b;
+    font-size: 25px;
+    font-family:sans-serif;
+    position: relative;
+    left:   480px;
+}
+.Info1{
+   
+    margin:   480px;
+}
